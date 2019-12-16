@@ -207,7 +207,7 @@ while period < T:
 	A2 += pf2
 	E2 += pf2
 	A1 += pf1
-	E1 += pf1				
+	E1 += pf1						
 
 	print('Period ' + str(period) + ' ends.')  # 一期就這樣結束了~
 
